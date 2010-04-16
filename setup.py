@@ -2,7 +2,9 @@ from setuptools import setup, find_packages
 
 setup(
     name='glamkit-holdingpage',
-    version='0.0.1',
+    version='0.5.0',
+    author='Julien Phalip',
+    author_email='julien@interaction.net.au',
     description='Holding page app for your Django site.',
     url='http://github.com/glamkit/glamkit-holdingpage',
     packages=find_packages(),
