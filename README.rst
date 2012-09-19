@@ -1,9 +1,6 @@
-===================
-GLAMkit-holdingpage
-===================
+This repository has a new location
+----------------------------------
 
-A configurable holding page / maintenance page Django app. For more information, see the `documentation <http://docs.glamkit.org/documentation/holdingpage/>`_.
+``github.com/glamkit`` repositories have been deprecated in favour of the ixc forks. This repository is now at https://github.com/ixc/glamkit-holdingpage.
 
-GLAMkit-holdingpage is part of the `GLAMkit framework <http://glamkit.org/>`_.
-
-Dependencies: none
+Please update your pip requirements etc. to use the new fork.
